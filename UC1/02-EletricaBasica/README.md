@@ -3,6 +3,7 @@ Diretório da UC-1
 calculo de registor
 tomar cuidado com polaridades
 fonte
+
 amarela 12 V faz ligar a fonte
 vermelho 5 V faz ligar o HD
 laranja 3.3 faz ligar um o processador(?)
