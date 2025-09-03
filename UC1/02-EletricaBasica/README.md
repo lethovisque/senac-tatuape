@@ -11,4 +11,5 @@ obs: fontes atuais de alto desempenho, são todas pretas/branco
 nao pode juntar um lado da placa de ensaio com a outra.
 
 projeto da aula de hoje -
+
 <img width="1329" height="555" alt="image" src="https://github.com/user-attachments/assets/4550d22c-785b-4658-96c8-0836d91c848e" />
