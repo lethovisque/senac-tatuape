@@ -5,7 +5,9 @@ tomar cuidado com polaridades
 fonte
 
 amarela 12 V faz ligar a fonte
+
 vermelho 5 V faz ligar o HD
+
 laranja 3.3 faz ligar um o processador(?)
   
 obs: fontes atuais de alto desempenho, são todas pretas/branco
