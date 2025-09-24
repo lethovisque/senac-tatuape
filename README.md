@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/lethovisque/robo-desvia?style=for-the-badge)
+
 # Repositório de Estudos – Curso Técnico em Informática (SENAC Tatuapé)
 
 Este repositório reúne todo o conteúdo, atividades e anotações do **Curso Técnico em Informática do SENAC Tatuapé**.  
