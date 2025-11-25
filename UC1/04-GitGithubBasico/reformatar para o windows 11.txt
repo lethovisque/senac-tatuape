@@ -1,1 +1,28 @@
-wdasfasf
+Processo de instalação de maquinas modernas e antigas
+
+para instalar o windows 11 em um not ou pc antigo, ou então para fazer com que o computador trabalhe de maneira mais rápida
+quando for instalar em um mais antigo, deixar desconectado da internet
+
+teclado com "ç" é o ABNT, os menores sem o "ç" ele é estados unidos internacional
+
+se o computador tiver os requisitos, não é necessario fazer esse processo -
+
+se for em pcs que nã o atendem os requisitos necessários
+após a escolha da versão do windows, e aparecer a mensagem que não é possível instalar, voltar para a tela de escolha e apertar:
+
+"shift + f10"
+
+para abrir o prompt de comando e digitar
+
+"regedit"
+
+No registro do windows, expandir o 
+
+HKey_local_Machine
+System
+Setup
+
+***selecionar o
+
+
+
