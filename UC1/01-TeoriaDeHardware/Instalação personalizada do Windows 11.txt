@@ -35,6 +35,7 @@ Instalação do Windows sem internet
 <shift><F10>
 digitar: oobe\bypassnro
 
+19,1 gb usado
 
 
 
